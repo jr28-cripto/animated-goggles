@@ -1,4 +1,4 @@
-echo "# jr28-cripto" >> README.md 
+# gafas animadas"
 git init 
 git add README.md 
 git commit -m "primer commit" 
