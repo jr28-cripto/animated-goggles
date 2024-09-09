@@ -1,4 +1,4 @@
-echo "# jr28-cripto" >> README.md 
+"# jr28-cripto" >>  
 git init 
 git add README.md 
 git commit -m "primer commit" 
